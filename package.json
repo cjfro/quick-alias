@@ -2,7 +2,7 @@
 {
   "name": "quick-alias",
   "description": "Quickly create an alias for the previous command.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Cameron Froehlich",
     "url": "http://github.com/cjfro"
