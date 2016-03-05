@@ -8,7 +8,7 @@
     "url": "http://github.com/cjfro"
   },
   "bin": {
-    "quick-alias": "./bin/alias.js"
+    "quick-alias": "./bin/quick-alias.js"
   },
   "repository": {
     "type": "git",
