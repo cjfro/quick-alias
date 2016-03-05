@@ -1,0 +1,19 @@
+
+{
+  "name": "quick-alias",
+  "description": "Quickly create an alias for the previous command.",
+  "version": "0.0.0",
+  "author": {
+    "name": "Cameron Froehlich",
+    "url": "http://github.com/cjfro"
+  },
+  "bin": {
+    "quick-alias": "./bin/alias.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cjfro/quick-alias.git"
+  },
+  "preferGlobal": true,
+  "license": "MIT"
+}
