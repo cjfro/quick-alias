@@ -57,6 +57,6 @@ reader.on('close', function() {
             bashLines.splice(footerIdx - 1, 0, newLine);
         }
 
-        fs.writeFile(BASH_PROFILE, bashLines.join('\n'));        
+        fs.writeFile(BASH_PROFILE, bashLines.join('\n'), function(err) {});
     });
 });
